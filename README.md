@@ -1,5 +1,7 @@
 # AI-Powered Color Memory Game & Gesture Recognition Models 🎮🤖
 
+<video src="IMG_8910.mp4" controls="controls" width="100%"></video>
+
 An innovative, touch-free interactive system that combines **Computer Vision** and **Embedded Systems**. Players reproduce LED sequences shown by an Arduino using specific hand gestures, with a unique "Mouth Open" trigger for sending commands.
 
 ---
